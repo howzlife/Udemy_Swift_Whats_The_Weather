@@ -14,6 +14,7 @@
 		42E6FD161BC21C9F0009ACA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42E6FD141BC21C9F0009ACA8 /* LaunchScreen.storyboard */; };
 		42E6FD211BC21C9F0009ACA8 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E6FD201BC21C9F0009ACA8 /* Whats_The_WeatherTests.swift */; };
 		42E6FD2C1BC21C9F0009ACA8 /* Whats_The_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E6FD2B1BC21C9F0009ACA8 /* Whats_The_WeatherUITests.swift */; };
+		42E6FD3A1BC21D480009ACA8 /* download.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 42E6FD391BC21D480009ACA8 /* download.jpeg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		42E6FD271BC21C9F0009ACA8 /* Whats The WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42E6FD2B1BC21C9F0009ACA8 /* Whats_The_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherUITests.swift; sourceTree = "<group>"; };
 		42E6FD2D1BC21C9F0009ACA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42E6FD391BC21D480009ACA8 /* download.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		42E6FD0A1BC21C9E0009ACA8 /* Whats The Weather */ = {
 			isa = PBXGroup;
 			children = (
+				42E6FD391BC21D480009ACA8 /* download.jpeg */,
 				42E6FD0B1BC21C9F0009ACA8 /* AppDelegate.swift */,
 				42E6FD0D1BC21C9F0009ACA8 /* ViewController.swift */,
 				42E6FD0F1BC21C9F0009ACA8 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42E6FD161BC21C9F0009ACA8 /* LaunchScreen.storyboard in Resources */,
+				42E6FD3A1BC21D480009ACA8 /* download.jpeg in Resources */,
 				42E6FD131BC21C9F0009ACA8 /* Assets.xcassets in Resources */,
 				42E6FD111BC21C9F0009ACA8 /* Main.storyboard in Resources */,
 			);
